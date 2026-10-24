@@ -1,4 +1,5 @@
 # week-1-checkpoint
+https://lanettebethea.github.io/week-1-checkpoint/
 
 ## My setup
 - Operating system: Windows 11
@@ -20,3 +21,4 @@
 | 8 | Change H1 text to pink in index.html | change h1 to pink in index.html | main
 | 9 | Add commits to ACP log in README.md | Add commits to ACP log in README.md | main
 | 10| Add cat image to index.html | Add cat image to index.html | main
+| 11| Add live site link to README | Add live site link to README | main
